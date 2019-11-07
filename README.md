@@ -1,6 +1,12 @@
 # Automating Cloud Content Management and Processing with Box and Python
 
-by Isaac J. Galvan
+Isaac J. Galvan
+
+IT Pro Forum Fall 2019 Workshop
+November 7, 2019, 1-4 PM Central
+
+Remote viewing link:
+https://illinois.zoom.us/j/232226634
 
 ## Workshop Description
 
