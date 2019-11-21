@@ -5,8 +5,9 @@ Isaac J. Galvan
 IT Pro Forum Fall 2019 Workshop
 November 7, 2019, 1-4 PM Central
 
-Remote viewing link:
-https://illinois.zoom.us/j/232226634
+## Workshop Recordings
+
+Recordings of this workshop are available on [Illinois Media Space](https://mediaspace.illinois.edu/channel/Automate%2BFile%2BManagement%2Band%2BProcessing%2Bw_%2BBox%2Band%2BPython/145928691).
 
 ## Workshop Description
 
